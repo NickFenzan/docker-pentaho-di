@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories>
+  <repository>
+    <id>KettleFileRepository</id>
+    <name>Local</name>
+    <description>File repository</description>
+    <is_default>true</is_default>
+    <base_directory>/home/pentaho/repo</base_directory>
+    <read_only>N</read_only>
+    <hides_hidden_files>N</hides_hidden_files>
+  </repository>
+</repositories>
